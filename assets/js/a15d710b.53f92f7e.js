@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdevelop_log=self.webpackChunkdevelop_log||[]).push([[108],{6200:function(e){e.exports=JSON.parse('{"permalink":"/develop-log/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
