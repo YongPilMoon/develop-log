@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Develop log Blog</title>
+        <title>develop log Blog</title>
         <link>https://yongpilmoon.github.io./develop-log/blog</link>
-        <description>Develop log Blog</description>
+        <description>develop log Blog</description>
         <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>

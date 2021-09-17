@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yongpilmoon.github.io./develop-log/blog</id>
-    <title>Develop log Blog</title>
+    <title>develop log Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yongpilmoon.github.io./develop-log/blog"/>
-    <subtitle>Develop log Blog</subtitle>
+    <subtitle>develop log Blog</subtitle>
     <icon>https://yongpilmoon.github.io./develop-log/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
