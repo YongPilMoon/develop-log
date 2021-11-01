@@ -21,3 +21,7 @@ https://www.youtube.com/watch?v=sJ14cWjrNis&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOz
 
 ## OSI 7계층
 https://www.youtube.com/watch?v=1pfTxp25MA8&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=94
+
+
+## HTMLProps vs HTMLAttributes
+
